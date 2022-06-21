@@ -14,7 +14,7 @@
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/2017%20-%20original%20script.png) 
 
 
-_**2017 Refractored**_
+_**2017 Refactored**_
 
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
@@ -25,7 +25,7 @@ _**2018 Original Script**_
 
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/2018%20-%20orignial%20script.png)
      
-_**2018 Refractored**_
+_**2018 Refactored**_
 
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
      
