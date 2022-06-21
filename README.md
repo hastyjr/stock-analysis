@@ -14,10 +14,13 @@
 **2017 Original Script vs Refactored** 
 
 **Original**
+![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/2017%20-%20original%20script.png) 
 
-![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/2017%20-%20original%20script.png) | ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-**Refractored**
+**Refractored** 
+![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+
 
 
 
