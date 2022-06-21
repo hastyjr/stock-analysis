@@ -1,13 +1,14 @@
-# stock-analysis
+# :notebook_with_decorative_cover: stock-analysis
 
 ## Overview of Project
 ### Steve's Stock Analysis
-   The purpose of this project is to analyze Steve's provided stock dataset. His intent for this project was to go deeper into the data to present to his parents. This analysis will provide what the outcome of the dataset is in summary and provide insight on how much time Steve can save now that we have automated some of the processes through VBA scripting and macro creations. 
+   _The purpose of this project is to analyze Steve's provided stock dataset. His intent for this project was to go deeper into the data to present to his parents. This analysis will provide what the outcome of the dataset is in summary and provide insight on how much time Steve can save now that we have automated some of the processes through VBA scripting and macro creations._
 
 ---
 ## Results
 
 ### A Comparison of Execution Times
+    _As the orignal script was written and ran, you will see that it is written in a way that can fetch the data in a timely manner, but not ncessarily efficiently. _
 
 #### _**2017 Original Script vs Refactored**_
 
