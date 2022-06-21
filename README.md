@@ -9,9 +9,9 @@
 ##### Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 ### A Comparison of Execution Times
-**Original vs Refactored**
+### **Original vs Refactored**
 
-_**2017 Original Script**_
+### _**2017 Original Script vs Refactored**_
 
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/2017%20-%20original%20script.png) 
 
@@ -21,7 +21,7 @@ _**2017 Refractored**_
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
-**2018 Original Script vs Refactored**
+### **2018 Original Script vs Refactored**
 
 _**2018 Original Script**_
 
