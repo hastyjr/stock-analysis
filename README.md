@@ -24,6 +24,7 @@ _**2017 Refractored**_
 **2018 Original Script vs Refactored**
 
 _**2018 Original Script**_
+
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/2018%20-%20orignial%20script.png)
      
 _**2018 Refractored**_
