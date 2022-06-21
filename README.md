@@ -16,8 +16,24 @@ When attempting to optimize the code to run more efficiently by refactoring, we 
     * `tickerVolumes`, 
     * `tickerStartingPrices`, and 
     * `tickerEndingPrices`
+
+![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/code/1.png)
+
 2. Created a `for` loop
-    * initialized the `tickerVolumes` to 
+    * initialized the `tickerVolumes` to `zero`
+    * looped over all rows in the spreadsheet
+
+![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/code/2.png)
+
+3. Wrote an inside `for` loop to
+    * optimize iterating over the `tickerIndex` variable in order to increase the current `tickerVolumes`
+    * Wrote IFTTT statements to check if current/last rows and assign either `ticketStartingPrices` or `tickerEndingPrices` output.
+
+![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/code/3.png)
+
+4. Used the `for` loop to loop **through** the arrays
+
+![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/code/4.png)
 
 ### A Comparison of Execution Times
 
