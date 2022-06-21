@@ -1,7 +1,7 @@
-# :notebook_with_decorative_cover: stock-analysis
+# :chart: stock-analysis
 
 ## Overview of Project
-### Steve's Stock Analysis
+### Steve's Stock Analysis :chart:
    _The purpose of this project is to analyze Steve's provided stock dataset. His intent for this project was to go deeper into the data to present to his parents. This analysis will provide what the outcome of the dataset is in summary and provide insight on how much time Steve can save now that we have automated some of the processes through VBA scripting and macro creations._
 
 ---
@@ -12,10 +12,12 @@
 
 #### _**2017 Original Script vs Refactored**_
 
+:chart_with_downwards_trend: _**2017 Original Script**_
+
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/2017%20-%20original%20script.png) 
 
 
-_**2017 Refactored**_
+:chart_with_downwards_trend: _**2017 Refactored**_
 
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
