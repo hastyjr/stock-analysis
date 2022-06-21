@@ -17,6 +17,7 @@ _**2017 Original Script**_
 
 
 _**2017 Refractored**_
+
 ![This is an image](https://github.com/hastyjr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
