@@ -8,9 +8,9 @@
 ## :part_alternation_mark:	 Results
 
 ###  Optimizing Code with Refactoring
-_As the orignal script was written you will see how the code was written in a way that can fetch the data in a timely manner, but not ncessarily efficient as possible as we compare both years.
+As the orignal script was written you will see how the code was written in a way that can fetch the data in a timely manner, but not ncessarily efficient as possible as we compare both years.
 
-When attempting to optimize the code to run more efficiently by refactoring, we implmented several steps to get there._
+When attempting to optimize the code to run more efficiently by refactoring, we implmented several steps to get there.
 
 1. Created a `tickerIndex` with three output arrays: 
     * `tickerVolumes`, 
