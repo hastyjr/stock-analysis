@@ -67,8 +67,7 @@ When attempting to optimize the code to run more efficiently by refactoring, we 
 
 ### Summary of Refactoring Code
 
-
-    Their are both advantages and disadvantages of refactoring code. The advantage of refactoring code is rewriting code that runs more efficiently and quicker. Complicated code that require redundant or repititous calling can prove to be expensive in resources, especially if the code is iterating over thousands or millions of lines. While there was a slight difference in the refactoring I displayed above, the script was not substantial nature, either. However, if the code were hundreds of lines, refactoring would have proven to be beneficial and less taxing on resources running the script. 
+    _Their are both advantages and disadvantages of refactoring code. The advantage of refactoring code is rewriting code that runs more efficiently and quicker. Complicated code that require redundant or repititous calling can prove to be expensive in resources, especially if the code is iterating over thousands or millions of lines. While there was a slight difference in the refactoring I displayed above, the script was not substantial nature, either. However, if the code were hundreds of lines, refactoring would have proven to be beneficial and less taxing on resources running the script._
 
     The disadvantage to refacorting code is that it might take some time to figure out the logic on how to best refactor the code. Sometimes the time it takes to figure out the logic is much more than the difference in time it would save if you didn't refactor the code in the first place.
 
